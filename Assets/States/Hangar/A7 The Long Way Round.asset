@@ -10,7 +10,26 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 183ba59b84321428f8f0fb168890ef39, type: 3}
-  m_Name: A7
+  m_Name: A7 The Long Way Round
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: 'A7. The Long Way Round
+
+    Good thinking, no point worrying about
+    some random guys'' plans to blow up the entire pumping station by shutting off
+    the water cooling valves. I''m sure everything will be just fine. Nothing at
+    all to worry about. Plenty of time to do what you need to do.
+
+
+    You take
+    quite some time, but eventually you make your way around the edge of the pumping
+    station and see daylight.
+
+
+    What! An almighty screech pierces the air. Gears
+    grinding. Steam spooshing from cracks in pipes. And then, a deafening roar....
+
+
+    1.
+    Continue...'
+  nextStates:
+  - {fileID: 11400000, guid: 26579beaa0d614c1bb3f851633dca6a4, type: 2}

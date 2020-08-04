@@ -10,7 +10,26 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 183ba59b84321428f8f0fb168890ef39, type: 3}
-  m_Name: A2
+  m_Name: A2 In A Cell
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: 'A2. In A Cell
+
+    Well, that was pretty stupid. You sustain a brutal
+    beating and end up dumped in a dirty cell. The bars are thick cast iron. The
+    door is old and patched together with plate metal and thick red wires.
+
+
+    You
+    have no idea where you are. And your head hurts.
+
+
+    So, what to do now, slugger?
+
+
+    1.
+    Wait it out. My head hurts.
+
+    2. Slam into the door with all my might.'
+  nextStates:
+  - {fileID: 11400000, guid: c6f49f8e578c94ab09c2379af7a58d02, type: 2}
+  - {fileID: 11400000, guid: c88c13636c66a40009704e6b945352ef, type: 2}

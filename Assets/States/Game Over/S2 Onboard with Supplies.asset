@@ -10,14 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 183ba59b84321428f8f0fb168890ef39, type: 3}
-  m_Name: B5 Waiting
+  m_Name: S2 Onboard with Supplies
   m_EditorClassIdentifier: 
-  storyText: 'B5. Waiting
-
-    Not much happens, what would you like to do?
-
-
-    1.
-    Get running.'
-  nextStates:
-  - {fileID: 11400000, guid: 150bc345baf0a450a8e67155e4ca042c, type: 2}
+  storyText: 
+  nextStates: []

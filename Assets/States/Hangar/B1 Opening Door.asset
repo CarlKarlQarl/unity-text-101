@@ -10,7 +10,22 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 183ba59b84321428f8f0fb168890ef39, type: 3}
-  m_Name: B1
+  m_Name: B1 Opening Door
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: 'B1. Opening Door
+
+    You wait it out. After, perhaps, 20 minutes you
+    hear feet shuffling. Keys jangle. The door starts to unlock.
+
+
+    What to do?
+
+
+    1.
+    Wait a little longer, it seemed to work last time.
+
+    2. Rush the door and
+    thrust a handful of knuckles through the chestplate of whoever enters.'
+  nextStates:
+  - {fileID: 11400000, guid: 61c68f855b3594261861b44f3c28bf65, type: 2}
+  - {fileID: 11400000, guid: 0aa6cd64bd6fd4e708d7bda7555377ac, type: 2}

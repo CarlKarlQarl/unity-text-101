@@ -10,7 +10,28 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 183ba59b84321428f8f0fb168890ef39, type: 3}
-  m_Name: A8
+  m_Name: A8 Eavesdropping
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: 'A8. Eavesdropping
+
+    You slink through the machinery towards 2 skanky
+    looking men. The tall, scrawny one is carrying an oversized gas-canister-powered
+    arrow shooter, while the shorter dumpy man has strapped to him at least a dozen
+    small glass bottles with grey liquid inside.
+
+
+    The stout fellow finishes
+    cranking a large valve (clockwise you notice) and then both men dash off with
+    much haste.
+
+
+    What to do?
+
+
+    1. Quick, uncrank that valve, they were clearly
+    up to no good.
+
+    2. Chase the men.'
+  nextStates:
+  - {fileID: 11400000, guid: 6edfa5a7fcf334f39a631ed2c016a491, type: 2}
+  - {fileID: 11400000, guid: fb856d0907a2547fe9eefd75e77dff50, type: 2}

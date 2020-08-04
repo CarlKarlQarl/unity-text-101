@@ -10,7 +10,27 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 183ba59b84321428f8f0fb168890ef39, type: 3}
-  m_Name: A5
+  m_Name: A5 Lock Smashing
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: 'A5. Lock Smashing
+
+    Got to be something around here to help with
+    some smashy smashy. You see a crate with all manner of pipes, wires and cogs
+    scattered within it. Mostly trash.
+
+
+    You could try the brute force approach
+    - wack the lock with one of the pipes. Or you could take some time to build a
+    contraption with some kind of leverage, maybe a mini pulley system with those
+    wires and the cogs.
+
+
+    How to proceed?
+
+    1. No time to waste, grab the
+    pipe, start wacking.
+
+    2. Take the time to build a leverage-gadget.'
+  nextStates:
+  - {fileID: 11400000, guid: deaf4966d469d4a3a901de1ee6d57f07, type: 2}
+  - {fileID: 11400000, guid: deaf4966d469d4a3a901de1ee6d57f07, type: 2}
