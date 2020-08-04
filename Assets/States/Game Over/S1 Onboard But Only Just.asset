@@ -12,5 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 183ba59b84321428f8f0fb168890ef39, type: 3}
   m_Name: S1 Onboard But Only Just
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: "S1. Onboard But Only Just\nYou scramble aboard your airship. With all
+    of your remaining strength, you lift the anchoring rope off its huge hook and
+    give an all mighty shove.\n\nAs you start to drift out of the hangar, you hear
+    shouts of dismay from a nearby group of Festers. \n\n\"So long suckers! May we
+    never meet again!\", you holler. You may, you may not. Time will tell. \n\nYou've
+    won this battle. Now, on with the war!\n\n1. Continue..."
+  nextStates:
+  - {fileID: 11400000, guid: 2396c050b04734735877ddea4e5f7bc7, type: 2}
